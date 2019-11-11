@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573462855 source:c:\users\heshan\desktop\new data structures\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

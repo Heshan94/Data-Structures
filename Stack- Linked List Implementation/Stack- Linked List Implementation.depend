@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573412212 source:c:\users\heshan\desktop\linkedlist\stack- linked list implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
