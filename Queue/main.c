@@ -39,8 +39,8 @@ int Dequeue(){
         return -1;
     }
     else if(rear==front){
-        rear==-1;
-        front==-1;
+        rear=-1;
+        front=-1;
     }
 
 
